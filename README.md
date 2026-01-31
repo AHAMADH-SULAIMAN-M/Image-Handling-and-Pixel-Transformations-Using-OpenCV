@@ -228,9 +228,28 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
+- <img width="704" height="537" alt="image" src="https://github.com/user-attachments/assets/749cb13d-8e64-401a-8bfc-d914b1130ddc" />
+- <img width="780" height="555" alt="image" src="https://github.com/user-attachments/assets/89191ab3-64df-46ed-a082-328eeff815da" />
+<img width="552" height="535" alt="image" src="https://github.com/user-attachments/assets/b4e2063a-1e82-4522-8920-f9fa565af807" />
+<img width="538" height="538" alt="image" src="https://github.com/user-attachments/assets/8da364cb-4f20-4765-87aa-05d57f07702c" />
+<img width="765" height="465" alt="image" src="https://github.com/user-attachments/assets/210fff0e-7ea8-46f3-88aa-65eb04fa1eb8" />
+<img width="779" height="442" alt="image" src="https://github.com/user-attachments/assets/17b43eeb-7168-4bc6-97a6-849147f63598" />
+
+
+- **ii)** Adjust Image Brightness.
+
+- <img width="1096" height="309" alt="image" src="https://github.com/user-attachments/assets/221f2924-d152-446c-a282-7b376daa2663" />
+
+- **iii)** Modify Image Contrast.
+- <img width="1062" height="312" alt="image" src="https://github.com/user-attachments/assets/37fb9ef1-42a4-497b-83cc-0d6f9371b4d0" />
+
 - **iv)** Generate Third Image Using Bitwise Operations.
+
+- <img width="1035" height="283" alt="image" src="https://github.com/user-attachments/assets/646a32dd-121d-4b37-8356-331cea5c405c" />
+<img width="604" height="443" alt="image" src="https://github.com/user-attachments/assets/9c279aa9-1336-4e26-8137-1ca6e51f4cfa" />
+<img width="1085" height="302" alt="image" src="https://github.com/user-attachments/assets/de336a77-0609-420b-a781-8effa3bdcdab" />
+<img width="1099" height="447" alt="image" src="https://github.com/user-attachments/assets/71751dc1-b30c-4e91-a6f2-f2cf7365358f" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
